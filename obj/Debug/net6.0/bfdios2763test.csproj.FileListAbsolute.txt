@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\bin\Debug\net6.0\bfdios2763test.deps.json
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\bin\Debug\net6.0\bfdios2763test.dll
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\bin\Debug\net6.0\bfdios2763test.pdb
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.dll
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\refint\bfdios2763test.dll
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\bfdios2763test.pdb
+C:\Users\Admin\source\repos\bfdios2763test\bfdios2763test\obj\Debug\net6.0\ref\bfdios2763test.dll
